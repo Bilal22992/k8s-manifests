@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: html-app
-        image: bilal22992/html-app:latest
+        image: bilal22992/html-app:v5
         ports:
         - containerPort: 80
 
